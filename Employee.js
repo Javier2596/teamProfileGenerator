@@ -27,7 +27,7 @@ function getEmail() {
 
 Employee.prototype.getRole = function () {
     if(this)
-}
+
 
 class Manager {
     constructor(role, officeNumber) {
@@ -49,7 +49,7 @@ class Intern {
         this.role = school;  
     }
 }
-
+}
 module.exports = Employee;
 module.exports = Manager;
 module.exports = Engineer;
