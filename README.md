@@ -14,4 +14,5 @@ Some uses for this application could be to for supervisors or managers who wish 
 
 ## License
 
+Apache License 2.0
 
